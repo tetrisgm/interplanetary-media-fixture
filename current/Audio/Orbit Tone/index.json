@@ -1,0 +1,20 @@
+{
+  "version": "consumer-media-mvp-v1",
+  "title": "Orbit Tone",
+  "entries": [
+    {
+      "name": "Orbit Tone.wav",
+      "type": "file",
+      "size": 8820044,
+      "sha256": "c4702245082e74492692c3d3fdf12ac148819ae745191fca89a931b376c7ffe6",
+      "url": "https://raw.githubusercontent.com/tetrisgm/interplanetary-media-fixture/main/assets/v1/Audio/Orbit%20Tone/Orbit%20Tone.wav"
+    },
+    {
+      "name": "README.txt",
+      "type": "file",
+      "size": 187,
+      "sha256": "c97c285e0e39f9d79e1c37a6211a319f9e5f6ab50510d79359df470747a51bed",
+      "url": "https://raw.githubusercontent.com/tetrisgm/interplanetary-media-fixture/main/assets/v1/Audio/Orbit%20Tone/README.txt"
+    }
+  ]
+}

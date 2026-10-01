@@ -1,0 +1,11 @@
+{
+  "version": "consumer-media-mvp-v1",
+  "title": "Audio",
+  "entries": [
+    {
+      "name": "Orbit Tone",
+      "type": "dir",
+      "list": "https://raw.githubusercontent.com/tetrisgm/interplanetary-media-fixture/main/current/Audio/Orbit%20Tone/index.json"
+    }
+  ]
+}

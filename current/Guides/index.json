@@ -1,0 +1,13 @@
+{
+  "version": "consumer-media-mvp-v1",
+  "title": "Guides",
+  "entries": [
+    {
+      "name": "First run.txt",
+      "type": "file",
+      "size": 242,
+      "sha256": "8ce428111e5619bc2ec22115d9575e5c62c9560780d3222b5ad94d975ea81ecd",
+      "url": "https://raw.githubusercontent.com/tetrisgm/interplanetary-media-fixture/main/assets/v1/Guides/First%20run.txt"
+    }
+  ]
+}

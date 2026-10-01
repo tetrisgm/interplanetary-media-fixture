@@ -1,0 +1,11 @@
+{
+  "version": "consumer-media-mvp-v1",
+  "title": "Games",
+  "entries": [
+    {
+      "name": "Pattern Demo",
+      "type": "dir",
+      "list": "https://raw.githubusercontent.com/tetrisgm/interplanetary-media-fixture/main/current/Games/Pattern%20Demo/index.json"
+    }
+  ]
+}

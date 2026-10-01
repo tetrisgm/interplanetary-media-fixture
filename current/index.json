@@ -1,0 +1,21 @@
+{
+  "version": "consumer-media-mvp-v1",
+  "title": "Interplanetary Media Demo",
+  "entries": [
+    {
+      "name": "Audio",
+      "type": "dir",
+      "list": "https://raw.githubusercontent.com/tetrisgm/interplanetary-media-fixture/main/current/Audio/index.json"
+    },
+    {
+      "name": "Games",
+      "type": "dir",
+      "list": "https://raw.githubusercontent.com/tetrisgm/interplanetary-media-fixture/main/current/Games/index.json"
+    },
+    {
+      "name": "Guides",
+      "type": "dir",
+      "list": "https://raw.githubusercontent.com/tetrisgm/interplanetary-media-fixture/main/current/Guides/index.json"
+    }
+  ]
+}

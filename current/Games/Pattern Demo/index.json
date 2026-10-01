@@ -1,0 +1,20 @@
+{
+  "version": "consumer-media-mvp-v1",
+  "title": "Pattern Demo",
+  "entries": [
+    {
+      "name": "Pattern Demo.gb",
+      "type": "file",
+      "size": 32768,
+      "sha256": "05a496238158020bf6c417e8ed4cd6d467eef023299f224fca7dc00b731662ec",
+      "url": "https://raw.githubusercontent.com/tetrisgm/interplanetary-media-fixture/main/assets/v1/Games/Pattern%20Demo/Pattern%20Demo.gb"
+    },
+    {
+      "name": "README.txt",
+      "type": "file",
+      "size": 277,
+      "sha256": "c8aa7cbcdea7891a1325682ca94e0347812aa1498432f4a5180415f5034172dd",
+      "url": "https://raw.githubusercontent.com/tetrisgm/interplanetary-media-fixture/main/assets/v1/Games/Pattern%20Demo/README.txt"
+    }
+  ]
+}
