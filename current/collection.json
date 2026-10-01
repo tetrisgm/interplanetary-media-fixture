@@ -2,7 +2,7 @@
   "format": "interplanetary.collection",
   "schema_version": 1,
   "id": "consumer-media-mvp",
-  "revision": "consumer-media-mvp-v1",
+  "revision": "consumer-media-mvp-v2",
   "title": "Interplanetary Media Demo",
   "description": "Original Game Boy pattern demo and synthesized audio for the Interplanetary desktop beta.",
   "entries": [

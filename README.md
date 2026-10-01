@@ -11,8 +11,8 @@ Add this one link in Interplanetary:
 `https://raw.githubusercontent.com/tetrisgm/interplanetary-media-fixture/main/current/collection.json`
 
 `current/` is the living collection definition and directory listings. Its
-first published revision is `consumer-media-mvp-v1`. Files live under
-`assets/v1/` and remain at versioned paths when `current/` advances to a new
-revision, so an older retained file is never silently replaced at its URL.
+current revision is `consumer-media-mvp-v2`; the first published revision was
+`consumer-media-mvp-v1`. Both `assets/v1/` and `assets/v2/` remain at versioned
+paths, so an older retained file is never silently replaced at its URL.
 The entire collection is metadata until a reader chooses to open or keep a
 file. Serving or seeding from a reader's computer is a separate choice.
